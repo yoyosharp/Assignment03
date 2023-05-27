@@ -1,0 +1,13 @@
+@media (max-width: 1199.8px) {
+  body {
+    font-size: 14px;
+  }
+
+  .nav-home-content {
+    display: none;
+  }
+
+  .nav-home {
+    width: 40px;
+  }
+}
